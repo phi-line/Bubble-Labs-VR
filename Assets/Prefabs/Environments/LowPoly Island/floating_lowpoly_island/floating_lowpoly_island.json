@@ -1,0 +1,33 @@
+{
+	"thumbnail": "preview.png",
+	"components":{
+		"island":{
+		    "filename": "floating_lowpoly_island.obj",
+		    "visibility":{
+			"default": true,
+			"scroll": false
+		    }
+		},
+		"trees":{
+		    "filename": "trees.obj",
+		    "visibility":{
+			"default": true,
+			"scroll": false
+		    }
+		},
+		"fence":{
+		    "filename": "fence.obj",
+		    "visibility":{
+			"default": true,
+			"scroll": false
+		    }
+		},
+		"props":{
+		    "filename": "props.obj",
+		    "visibility":{
+			"default": true,
+			"scroll": false
+		    }
+		}
+	}
+}
