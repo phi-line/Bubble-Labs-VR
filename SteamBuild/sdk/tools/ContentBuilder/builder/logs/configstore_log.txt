@@ -1,0 +1,37 @@
+
+
+[2016-11-10 14:23:55] Failed to read store 'install' from 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf.tmp'
+[2016-11-10 14:23:55] Failed to read store 'install' from 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf.tmp'
+[2016-11-10 14:23:56] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2016-11-10 14:28:03] Loaded store 'install' from 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2016-11-10 14:28:23] Failed to read store 'userlocal' from 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf.tmp'
+[2016-11-10 14:28:23] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2016-11-10 14:28:23] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-10 14:28:24] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-10 14:28:25] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-10 14:28:26] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-10 14:28:29] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-10 14:28:54] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-10 14:43:24] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+
+
+[2016-11-11 23:57:57] Loaded store 'install' from 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2016-11-11 23:57:57] Loaded store 'install' from 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2016-11-11 23:59:21] Loaded store 'userlocal' from 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf' successfully
+[2016-11-11 23:59:21] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-11 23:59:22] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2016-11-11 23:59:25] Loaded store 'install' from 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2016-11-11 23:59:25] Loaded store 'userlocal' from 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf' successfully
+[2016-11-11 23:59:25] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-11 23:59:25] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2016-11-11 23:59:26] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2016-11-11 23:59:27] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-11 23:59:27] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2016-11-12 00:16:45] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-12 00:16:48] Loaded store 'install' from 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf' successfully
+[2016-11-12 00:16:48] Loaded store 'userlocal' from 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf' successfully
+[2016-11-12 00:16:49] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2016-11-12 00:16:49] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-12 00:16:50] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'
+[2016-11-12 00:16:50] Flushed store 'userlocal' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\userdata\362672540\config\localconfig.vdf'
+[2016-11-12 00:16:51] Flushed store 'install' to 'C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\config\config.vdf'

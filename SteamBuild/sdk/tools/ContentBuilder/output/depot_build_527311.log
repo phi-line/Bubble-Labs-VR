@@ -1,0 +1,12 @@
+[2016-11-12 00:18:16]: Starting build for depot 527311, content path is "C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\content\windows_content\"
+[2016-11-12 00:18:16]: Building file listing for depot 527311 ...
+[2016-11-12 00:18:16]: Found 55 files for mapping: C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\content\windows_content * -> .
+[2016-11-12 00:18:16]: Found 55 files (140 MB) for depot 527311
+[2016-11-12 00:18:17]: Building depot 527311, baseline manifest 5616168035544800077 (55 files)
+[2016-11-12 00:18:18]: Found 169 new chunks (168 old ones existed) for depot 527311, took 0 minutes, 1 seconds
+
+[2016-11-12 00:18:18]: Changes to baseline manifest:
+[2016-11-12 00:18:18]: Changed: "BubbleWand_Data\output_log.txt" 1219 kB 
+[2016-11-12 00:18:18]: Summary: 0 files added, 1 files changed, 0 files removed
+[2016-11-12 00:18:19]: Uploading new manifest (12257 bytes).
+[2016-11-12 00:18:19]: Success! Previous manifestID 7569547811585518620 reused, no chunks uploaded.

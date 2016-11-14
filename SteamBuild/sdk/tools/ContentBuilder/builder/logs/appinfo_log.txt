@@ -1,0 +1,34 @@
+
+
+[2016-11-10 14:28:23] RequestAppInfoUpdate: nNumAppIDs 1
+[2016-11-10 14:28:23] ProductInfoChanges: change number 0->2438917, apps: 0/0, packages: 0/0
+[2016-11-10 14:28:23] UpdatesJob: requesting 1 apps, 5 packages (meta data, 1024 prev attempts)
+[2016-11-10 14:28:23] UpdatesJob: requesting 1 apps, 5 packages (full data, 1024 prev attempts)
+[2016-11-10 14:28:24] UpdatesJob: finished OK, nAppsUpdated 1 (2 KB), nPackagesUpdated 5 (9 KB)
+[2016-11-10 14:28:24] UpdatesJob: requesting 196 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-10 14:28:24] UpdatesJob: requested 40 access tokens, 40 received, 0 denied
+[2016-11-10 14:28:24] UpdatesJob: updated SHAs with 40 new access tokens
+[2016-11-10 14:28:24] UpdatesJob: downloaded 4 apps via HTTP, 54 KB (16 KB compressed)
+[2016-11-10 14:28:24] UpdatesJob: requesting 192 apps, 0 packages (full data, 1024 prev attempts)
+[2016-11-10 14:28:25] UpdatesJob: finished OK, nAppsUpdated 196 (373 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-10 14:28:40] Starting async write C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder/appcache/appinfo.vdf (283244 bytes)
+[2016-11-10 14:43:23] ProductInfoChanges: change number 2438917->2438979, apps: 2/45, packages: 0/10
+[2016-11-10 14:43:23] UpdatesJob: requesting 2 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-10 14:43:23] UpdatesJob: requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2016-11-10 14:43:23] UpdatesJob: finished OK, nAppsUpdated 2 (4 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-10 14:43:38] Starting async write C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder/appcache/appinfo.vdf (283244 bytes)
+
+
+[2016-11-11 23:59:26] RequestAppInfoUpdate: nNumAppIDs 1
+[2016-11-11 23:59:26] ProductInfoChanges: change number 2438979->2443044, apps: 0/0, packages: 0/0
+[2016-11-11 23:59:26] UpdatesJob: requesting 197 apps, 5 packages (meta data, 1024 prev attempts)
+[2016-11-11 23:59:26] UpdatesJob: downloaded 2 apps via HTTP, 36 KB (11 KB compressed)
+[2016-11-11 23:59:26] UpdatesJob: requesting 6 apps, 0 packages (full data, 1024 prev attempts)
+[2016-11-11 23:59:26] UpdatesJob: finished OK, nAppsUpdated 8 (57 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-11 23:59:41] Starting async write C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder/appcache/appinfo.vdf (284048 bytes)
+[2016-11-12 00:16:49] RequestAppInfoUpdate: nNumAppIDs 1
+[2016-11-12 00:16:49] ProductInfoChanges: change number 2443044->2443051, apps: 1/7, packages: 0/0
+[2016-11-12 00:16:49] UpdatesJob: requesting 2 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-12 00:16:50] UpdatesJob: requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2016-11-12 00:16:50] UpdatesJob: finished OK, nAppsUpdated 1 (1 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-12 00:17:05] Starting async write C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder/appcache/appinfo.vdf (284048 bytes)

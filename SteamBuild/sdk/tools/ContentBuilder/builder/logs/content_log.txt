@@ -1,0 +1,6 @@
+
+
+[2016-11-10 14:23:55] Loaded 0 apps from install folder "C:\Users\phili\Documents\Unity Projects\current-5.4.2f2\BubbleWand_Version1.1\SteamBuild\sdk\tools\ContentBuilder\builder\steamapps\appmanifest_*.acf".
+
+
+[2016-11-11 23:57:57] Loaded 0 apps from install folder "C:\Users\phili\Documents\Unity Projects\BubbleWand_BUILD\SteamBuild\sdk\tools\ContentBuilder\builder\steamapps\appmanifest_*.acf".

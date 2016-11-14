@@ -1,0 +1,63 @@
+
+
+[2016-11-10 14:23:55] Log session started
+[2016-11-10 14:23:55] [0,0] SetSteamID( [U:1:0] )
+[2016-11-10 14:23:55] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2016-11-10 14:28:03] [0,0] SetSteamID( [U:1:0] )
+[2016-11-10 14:28:03] [0,0] SetSteamID( [U:1:0] )
+[2016-11-10 14:28:03] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2016-11-10 14:28:03] CCMInterface::YieldingConnect -- got 100 CMs from ISteamDirectory/GetCMList.
+[2016-11-10 14:28:03] [1,4] Connect() starting connection (eNetQOSLevelHigh, 162.254.195.47:27020, UDP)
+[2016-11-10 14:28:04] [1,4] ConnectionCompleted() (72.165.61.185:27017, UDP)
+[2016-11-10 14:28:04] [1,4] RecvMsgClientLogOnResponse() : [U:1:362672540] 'Account Logon Denied'
+[2016-11-10 14:28:04] [1,4] AsyncDisconnect()
+[2016-11-10 14:28:04] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Account Logon Denied' (72.165.61.185:27017, UDP)
+[2016-11-10 14:28:04] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2016-11-10 14:28:22] [0,0] SetSteamID( [U:1:0] )
+[2016-11-10 14:28:22] [1,8] Connect() starting connection (eNetQOSLevelHigh, 162.254.195.47:27020, UDP)
+[2016-11-10 14:28:23] [1,8] ConnectionCompleted() (72.165.61.185:27017, UDP)
+[2016-11-10 14:28:23] [1,8] RecvMsgClientLogOnResponse() : [U:1:362672540] 'OK'
+[2016-11-10 14:54:55] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2016-11-10 14:56:19] [3,8] RecvMsgClientLoggedOff('Session Replaced')
+[2016-11-10 14:56:19] [3,8] AsyncDisconnect()
+[2016-11-10 14:56:19] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Session Replaced' (72.165.61.185:27017, UDP)
+[2016-11-10 14:56:19] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+
+
+[2016-11-11 23:57:57] Log session started
+[2016-11-11 23:57:57] [0,0] SetSteamID( [U:1:0] )
+[2016-11-11 23:57:57] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2016-11-11 23:59:21] [0,0] SetSteamID( [U:1:362672540] )
+[2016-11-11 23:59:21] [0,0] SetSteamID( [U:1:362672540] )
+[2016-11-11 23:59:21] [1,2] Connect() starting connection (eNetQOSLevelHigh, 162.254.195.47:27018, UDP)
+[2016-11-11 23:59:21] [1,2] ConnectionCompleted() (162.254.195.47:27018, UDP)
+[2016-11-11 23:59:22] [1,2] RecvMsgClientLogOnResponse() : [U:1:362672540] 'Invalid Password'
+[2016-11-11 23:59:22] [1,2] AsyncDisconnect()
+[2016-11-11 23:59:22] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Invalid Password' (162.254.195.47:27018, UDP)
+[2016-11-11 23:59:22] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2016-11-11 23:59:25] [0,0] SetSteamID( [U:1:362672540] )
+[2016-11-11 23:59:25] [0,0] SetSteamID( [U:1:362672540] )
+[2016-11-11 23:59:25] [1,6] Connect() starting connection (eNetQOSLevelHigh, 162.254.195.47:27018, UDP)
+[2016-11-11 23:59:26] [1,6] ConnectionCompleted() (72.165.61.175:27018, UDP)
+[2016-11-11 23:59:26] [1,6] RecvMsgClientLogOnResponse() : [U:1:362672540] 'OK'
+[2016-11-12 00:10:01] [3,6] RecvMsgClientLoggedOff('Session Replaced')
+[2016-11-12 00:10:01] [3,6] AsyncDisconnect()
+[2016-11-12 00:10:01] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Session Replaced' (72.165.61.175:27018, UDP)
+[2016-11-12 00:10:01] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2016-11-12 00:16:44] [0,0] SetSteamID( [U:1:362672540] )
+[2016-11-12 00:16:44] [0,0] SetSteamID( [U:1:362672540] )
+[2016-11-12 00:16:44] [1,48] Connect() starting connection (eNetQOSLevelHigh, 162.254.195.47:27018, UDP)
+[2016-11-12 00:16:45] [1,48] ConnectionCompleted() (72.165.61.175:27018, UDP)
+[2016-11-12 00:16:45] [1,48] RecvMsgClientLogOnResponse() : [U:1:362672540] 'Invalid Password'
+[2016-11-12 00:16:45] [1,48] AsyncDisconnect()
+[2016-11-12 00:16:45] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Invalid Password' (72.165.61.175:27018, UDP)
+[2016-11-12 00:16:45] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2016-11-12 00:16:48] [0,0] SetSteamID( [U:1:362672540] )
+[2016-11-12 00:16:48] [0,0] SetSteamID( [U:1:362672540] )
+[2016-11-12 00:16:48] [1,50] Connect() starting connection (eNetQOSLevelHigh, 162.254.195.47:27018, UDP)
+[2016-11-12 00:16:49] [1,50] ConnectionCompleted() (72.165.61.185:27017, UDP)
+[2016-11-12 00:16:49] [1,50] RecvMsgClientLogOnResponse() : [U:1:362672540] 'OK'
+[2016-11-12 00:26:46] [3,50] RecvMsgClientLoggedOff('Session Replaced')
+[2016-11-12 00:26:46] [3,50] AsyncDisconnect()
+[2016-11-12 00:26:46] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Session Replaced' (72.165.61.185:27017, UDP)
+[2016-11-12 00:26:46] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect

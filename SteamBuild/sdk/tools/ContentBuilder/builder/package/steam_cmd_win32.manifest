@@ -1,0 +1,51 @@
+"win32"
+{
+	"version"		"1476829516"
+	"steamcmd_public_all"
+	{
+		"file"		"steamcmd_public_all.zip.509c709ea8ee855d8f1d0dfa9d4a6738ed65e7d9"
+		"size"		"60211"
+		"sha2"		"b7204e922c9731e944e60d017422ed7e87a1f3c6f6e51551ab3c8a88a6471501"
+		"zipvz"		"steamcmd_public_all.zip.vz.bc6b0203ff2e44760c429cf5015ac527f71dc2dc_23465"
+		"sha2vz"		"5b2da6d034191a2384c338332e57ecb44a13f7ab86b2fce4b29e07458bf92707"
+	}
+	"steamcmd_bins_win32"
+	{
+		"file"		"steamcmd_bins_win32.zip.7ecbc368439be0a18d63ac05689852de0e79f836"
+		"size"		"5953259"
+		"sha2"		"d814ae3391689197fa92f84ff9004031b07aacfd6e352e407cdca6d9bb38f74e"
+		"zipvz"		"steamcmd_bins_win32.zip.vz.f2c4edf52d7d0be4c4c59825d710b02d7fae764b_3955914"
+		"sha2vz"		"b41213232ab240f3ed69d2da1ed20f407813ed5c870f7ccc9cb792ac4b723c16"
+	}
+	"steamcmd_steamservice_win32"
+	{
+		"file"		"steamcmd_steamservice_win32.zip.c49e0b87b8e3789884c94ba338b2e23b1a09deb2"
+		"size"		"1552121"
+		"sha2"		"87ce14db3f29340d7290e6ca98a6730e997ea21c499e4ae1af1a3e6c152575b1"
+		"zipvz"		"steamcmd_steamservice_win32.zip.vz.2a01f17aefa06638f4fcda133442e7b9bbd3c9b6_933776"
+		"sha2vz"		"936d74c9882168888cc45ed01dc277fdc67d83a2bcd01f199014d19e71c08dcf"
+	}
+	"steamcmd_steamerrorreporter_win32"
+	{
+		"file"		"steamcmd_steamerrorreporter_win32.zip.64fe73b7ec884ead2b11122f219b3208593bb0b1"
+		"size"		"144418"
+		"sha2"		"ec066126cff7eab293454759b848a2cf913e5374ac0bafe2dce6481a2b52f5d3"
+	}
+	"steamcmd_win32"
+	{
+		"file"		"steamcmd_win32.zip.a0597a83d688c10dfd0ba5cd990d4ef46b8b9c28"
+		"size"		"1176082"
+		"sha2"		"ff97d211949f87e17b7f2779280da49e2fcf7bbe3f16161472e9b7bbbf01437b"
+		"zipvz"		"steamcmd_win32.zip.vz.4825c13575ed44a19eb7047b44562f4f598dc8fa_957736"
+		"sha2vz"		"748d4ed20088a804c6f515d506ae13a15991152c649a76d9534b3e0739039a28"
+		"IsBootstrapperPackage"		"1"
+	}
+}
+"kvsign2"
+{
+	"win32"		"5c14dfed0544e9a821d5637a0a07ff484d0f94a72db1a05dac207346b4dad1ed9b326c8bdde77d29a48d337830fcf2e48f7e0f8adfc956cc4ad09722c1cccd0f"
+}
+"kvsignatures"
+{
+	"win32"		"04a4e7272a5cb9454017ac7c53d07fee48be0bf2571ef00add4ccf741f0c0eaf7e563c04fac4474f81c13d0719b7377473358e9020052f6776ffb33daed6f133410e58a605e72b294ef51b021cd6f118fe9ccc1cca3561ddbcc6b6fe34f0d498d1414787ae22820010a847b0908b426582d3a7557ba2295506cc8b505e494b2b"
+}

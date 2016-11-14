@@ -1,0 +1,41 @@
+
+
+[2016-11-10 14:28:23] [AppID 7] Init cache request complete
+[2016-11-10 14:28:23] Starting sync job
+[2016-11-10 14:28:23] [AppID 7] Starting sync (init)
+[2016-11-10 14:28:53] Starting sync job
+[2016-11-10 14:28:53] [AppID 7] Starting sync (eval)
+[2016-11-10 14:28:53] [AppID 7] Need to download file sharedconfig.vdf
+[2016-11-10 14:28:53] [AppID 7] Eval complete
+[2016-11-10 14:28:54] Starting sync job
+[2016-11-10 14:28:54] [AppID 7] Starting sync (download)
+[2016-11-10 14:28:54] [AppID 7] Need to download file sharedconfig.vdf
+[2016-11-10 14:28:54] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamclouduseast.blob.core.windows.net' beginning. . .
+[2016-11-10 14:28:54] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamclouduseast.blob.core.windows.net' - Success.
+[2016-11-10 14:28:54] [AppID 7] Download OK for file sharedconfig.vdf
+[2016-11-10 14:28:54] [AppID 7] Download complete, result OK
+
+
+[2016-11-11 23:59:21] [AppID 7] Init cache request complete
+[2016-11-11 23:59:21] Starting sync job
+[2016-11-11 23:59:21] [AppID 7] Starting sync (init)
+[2016-11-11 23:59:25] [AppID 7] Init cache request complete
+[2016-11-11 23:59:25] Starting sync job
+[2016-11-11 23:59:25] [AppID 7] Starting sync (init)
+[2016-11-11 23:59:26] Starting sync job
+[2016-11-11 23:59:26] [AppID 7] Starting sync (eval)
+[2016-11-11 23:59:26] [AppID 7] Need to download file sharedconfig.vdf
+[2016-11-11 23:59:26] [AppID 7] Eval complete
+[2016-11-11 23:59:26] Starting sync job
+[2016-11-11 23:59:26] [AppID 7] Starting sync (download)
+[2016-11-11 23:59:26] [AppID 7] Need to download file sharedconfig.vdf
+[2016-11-11 23:59:27] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-us.storage.googleapis.com' beginning. . .
+[2016-11-11 23:59:27] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-us.storage.googleapis.com' - Success.
+[2016-11-11 23:59:27] [AppID 7] Download OK for file sharedconfig.vdf
+[2016-11-11 23:59:27] [AppID 7] Download complete, result OK
+[2016-11-12 00:16:45] [AppID 7] Init cache request complete
+[2016-11-12 00:16:45] Starting sync job
+[2016-11-12 00:16:45] [AppID 7] Starting sync (init)
+[2016-11-12 00:16:48] [AppID 7] Init cache request complete
+[2016-11-12 00:16:48] Starting sync job
+[2016-11-12 00:16:48] [AppID 7] Starting sync (init)

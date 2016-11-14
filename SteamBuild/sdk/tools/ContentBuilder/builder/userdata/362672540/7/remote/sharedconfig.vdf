@@ -1,0 +1,28 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SteamDefaultDialog"		"#app_store"
+				"DesktopShortcutCheck"		"0"
+				"StartMenuShortcutCheck"		"0"
+			}
+		}
+	}
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.bing.com/"
+		"WebFav0_Name"		"Bing"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+	}
+}
