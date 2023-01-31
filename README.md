@@ -14,10 +14,6 @@ Key Features Include:
 | ![](/docs/img/spread.gif) | ![](/docs/img/jelly.gif) |
 | ![](/docs/img/chop.gif) | ![](/docs/img/line.gif) |
 
-Please see my medium pages for this project. I go into detail on my UI/UX practices and the origins of this project.
-- [launch post](https://medium.com/@phiLine/my-first-dev-blog-post-dd65fccc38f6#.9o2lsgydn)
-- [UI/UX design of Bubble Labs](https://medium.com/@phiLine/ui-ux-design-in-bubble-labs-2d9c2731d2b2#.d9mqijukv)
-
 Credits:
 - [Omni](https://twitter.com/omniboi) for letting me use his song BonBon in my trailer.
 - Tavius for the 3D water gun model
